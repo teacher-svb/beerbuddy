@@ -7,41 +7,6 @@
         "uniqueBeers": 0
     },
   {
-    "handle": "AstraWanderer",
-    "name": "Astrid Starforge",
-    "bio": "Roaming stargazer with a passion for constellations and cosmic wonders. Searching for beauty in every corner of the universe. ✨🌌",
-    "checkins": 0,
-    "uniqueBeers": 0
-  },
-  {
-    "handle": "SerenityScribe",
-    "name": "Elysia Quillwind",
-    "bio": "Serene scribe lost in the world of words and enchanting tales. Capturing the magic of stories and sharing them with kindred spirits. 📚✍️",
-    "checkins": 0,
-    "uniqueBeers": 0
-  },
-  {
-    "handle": "CaptainSkylark",
-    "name": "Captain Flynn Marlowe",
-    "bio": "Adventurous sky pirate sailing the boundless skies. Seeking treasures, thrills, and flying with the wind. ☁️🏴‍☠️",
-    "checkins": 0,
-    "uniqueBeers": 0
-  },
-  {
-    "handle": "LunaHarmony",
-    "name": "Selene Moonshadow",
-    "bio": "Moonlit musician playing melodies that soothe the soul and mend hearts. Embracing the harmony of night and the secrets it holds. 🎵🌙",
-    "checkins": 0,
-    "uniqueBeers": 0
-  },
-  {
-    "handle": "PhoenixFlare",
-    "name": "Ember Blazeborn",
-    "bio": "Fiery forger crafting art from molten metals and determination. Rising from the ashes to create beauty that withstands time. 🔥🔨",
-    "checkins": 0,
-    "uniqueBeers": 0
-  },
-  {
     "handle": "NatureNomad",
     "name": "Rowan Wildstride",
     "bio": "Nomadic druid immersed in the wilderness, learning the language of trees and the secrets of the earth. Protecting the natural world. 🌿🦌",
