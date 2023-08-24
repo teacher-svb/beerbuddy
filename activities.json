@@ -19,5 +19,75 @@
     "rating": 5,
     "locationName": "Ice Cream Shop",
     "createdOn": "2023-08-06T20:15:21.236Z"
+  },
+  {
+    "profileHandle": "NatureNomad",
+    "beerName": "Forest Elixir IPA",
+    "rating": 4,
+    "locationName": "Ancient Grove",
+    "createdOn": "2023-07-12T15:30:45.123Z"
+  },
+  {
+    "profileHandle": "TechEnchantress",
+    "beerName": "Cybernetic Saison",
+    "rating": 4,
+    "locationName": "Virtual Reality Oasis",
+    "createdOn": "2023-07-18T12:45:59.789Z"
+  },
+  {
+    "profileHandle": "GalacticGuardian",
+    "beerName": "Cosmic Amber Ale",
+    "rating": 3,
+    "locationName": "Starship Outpost",
+    "createdOn": "2023-07-25T17:20:30.456Z"
+  },
+  {
+    "profileHandle": "MysticAlchemist",
+    "beerName": "Ethereal Elixir Stout",
+    "rating": 5,
+    "locationName": "Arcane Laboratory",
+    "createdOn": "2023-08-02T09:10:15.678Z"
+  },
+  {
+    "profileHandle": "NeoNinja",
+    "beerName": "Shadowblade Porter",
+    "rating": 4,
+    "locationName": "Neo-Tokyo Rooftop",
+    "createdOn": "2023-08-10T22:55:30.987Z"
+  },
+  {
+    "profileHandle": "syndias",
+    "beerName": "Mystic Mosaic Pale Ale",
+    "rating": 4,
+    "locationName": "Enchanted Tavern",
+    "createdOn": "2023-08-15T18:30:20.345Z"
+  },
+  {
+    "profileHandle": "NatureNomad",
+    "beerName": "Verdant Cascade Wheat Beer",
+    "rating": 3,
+    "locationName": "Waterfall Oasis",
+    "createdOn": "2023-08-20T14:15:10.678Z"
+  },
+  {
+    "profileHandle": "TechEnchantress",
+    "beerName": "ChronoFizz Cider",
+    "rating": 5,
+    "locationName": "Temporal Lounge",
+    "createdOn": "2023-08-25T10:05:40.234Z"
+  },
+  {
+    "profileHandle": "GalacticGuardian",
+    "beerName": "Nebula Nectar IPA",
+    "rating": 4,
+    "locationName": "Celestial Outpost",
+    "createdOn": "2023-09-02T16:40:55.789Z"
+  },
+  {
+    "profileHandle": "MysticAlchemist",
+    "beerName": "Alchemy Ember Lager",
+    "rating": 4,
+    "locationName": "Ethereal Hearth",
+    "createdOn": "2023-09-08T11:25:35.456Z"
   }
 ]
