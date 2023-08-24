@@ -6,67 +6,74 @@
         "checkins": 0,
         "uniqueBeers": 0
     },
-    {
-        "handle": "WarchiefThrall",
-        "name": "Thrall",
-        "bio": "Warchief of the Horde, powerful shaman, and protector of Azeroth. Working towards peace and unity. 🌩️🔨",
-        "checkins": 0,
-        "uniqueBeers": 0
-    },
-    {
-        "handle": "ArchmageJaina",
-        "name": "Jaina Proudmoore",
-        "bio": "Leader of the Kirin Tor, powerful mage, and advocate for peace. Making Azeroth a better place, one spell at a time. ✨📚",
-        "checkins": 0,
-        "uniqueBeers": 0
-    },
-    {
-        "handle": "BansheeQueen",
-        "name": "Sylvanas Windrunner",
-        "bio": "Banshee Queen of the Forsaken, master archer, and cunning strategist. Reclaiming what was lost. 🏹🧟‍♀️",
-        "checkins": 0,
-        "uniqueBeers": 0
-    },
-    {
-        "handle": "KingVarian",
-        "name": "Varian Wrynn",
-        "bio": "King of Stormwind, skilled warrior, and loving father. Fighting for the Alliance and a brighter future. ⚔️👑",
-        "checkins": 0,
-        "uniqueBeers": 0
-    },
-    {
-        "handle": "HighPriestess",
-        "name": "Tyrande Whisperwind",
-        "bio": "High Priestess of Elune, skilled huntress, and leader of the Night Elves. Guided by the light of Elune. 🌙🏹",
-        "checkins": 0,
-        "uniqueBeers": 0
-    },
-    {
-        "handle": "TheBetrayed",
-        "name": "Illidan Stormrage",
-        "bio": "Demon hunter, master of the fel, and misunderstood hero. Fighting the Burning Legion to save Azeroth. 🔥🗡️",
-        "checkins": 0,
-        "uniqueBeers": 0
-    },
-    {
-        "handle": "TheLichKing",
-        "name": "Arthas Menethil",
-        "bio": "The Lich King, ruler of the Scourge, and master of Icecrown Citadel. Bringing cold and darkness to Azeroth. ❄️👑",
-        "checkins": 0,
-        "uniqueBeers": 0
-    },
-    {
-        "handle": "PrinceAnduin",
-        "name": "Anduin Wrynn",
-        "bio": "Prince of Stormwind, devoted priest, and aspiring leader. Learning from the best to protect Azeroth. 🙏📖",
-        "checkins": 0,
-        "uniqueBeers": 0
-    },
-    {
-        "handle": "JonDoe",
-        "name": "Jon Doe",
-        "bio": "Mysterious maverick, pun enthusiast, and part-time ninja 🕶️. On a quest to discover the world's best dad jokes and hidden emojis 🕵️. #AnonymousAdventurer",
-        "checkins": 0,
-        "uniqueBeers": 0
-    }
+  {
+    "handle": "AstraWanderer",
+    "name": "Astrid Starforge",
+    "bio": "Roaming stargazer with a passion for constellations and cosmic wonders. Searching for beauty in every corner of the universe. ✨🌌",
+    "checkins": 0,
+    "uniqueBeers": 0
+  },
+  {
+    "handle": "SerenityScribe",
+    "name": "Elysia Quillwind",
+    "bio": "Serene scribe lost in the world of words and enchanting tales. Capturing the magic of stories and sharing them with kindred spirits. 📚✍️",
+    "checkins": 0,
+    "uniqueBeers": 0
+  },
+  {
+    "handle": "CaptainSkylark",
+    "name": "Captain Flynn Marlowe",
+    "bio": "Adventurous sky pirate sailing the boundless skies. Seeking treasures, thrills, and flying with the wind. ☁️🏴‍☠️",
+    "checkins": 0,
+    "uniqueBeers": 0
+  },
+  {
+    "handle": "LunaHarmony",
+    "name": "Selene Moonshadow",
+    "bio": "Moonlit musician playing melodies that soothe the soul and mend hearts. Embracing the harmony of night and the secrets it holds. 🎵🌙",
+    "checkins": 0,
+    "uniqueBeers": 0
+  },
+  {
+    "handle": "PhoenixFlare",
+    "name": "Ember Blazeborn",
+    "bio": "Fiery forger crafting art from molten metals and determination. Rising from the ashes to create beauty that withstands time. 🔥🔨",
+    "checkins": 0,
+    "uniqueBeers": 0
+  },
+  {
+    "handle": "NatureNomad",
+    "name": "Rowan Wildstride",
+    "bio": "Nomadic druid immersed in the wilderness, learning the language of trees and the secrets of the earth. Protecting the natural world. 🌿🦌",
+    "checkins": 0,
+    "uniqueBeers": 0
+  },
+  {
+    "handle": "TechEnchantress",
+    "name": "Aurora Bytecaster",
+    "bio": "Enchanting technomage blending magic and technology to create marvels. Illuminating the digital realm with creativity and wonder. ✨🔮",
+    "checkins": 0,
+    "uniqueBeers": 0
+  },
+  {
+    "handle": "GalacticGuardian",
+    "name": "Orion Starshield",
+    "bio": "Guardian of the galactic frontier, defending against cosmic threats and ensuring the safety of distant worlds. 🌌⚔️",
+    "checkins": 0,
+    "uniqueBeers": 0
+  },
+  {
+    "handle": "MysticAlchemist",
+    "name": "Lyra Althalor",
+    "bio": "Alchemist of arcane concoctions and mystical elixirs. Unveiling the hidden properties of ingredients and uncovering the secrets of the universe. 🔮⚗️",
+    "checkins": 0,
+    "uniqueBeers": 0
+  },
+  {
+    "handle": "NeoNinja",
+    "name": "Kai Shadowstrike",
+    "bio": "Modern-day ninja blending ancient traditions with futuristic gadgets. Master of shadows, protecting the balance between worlds. 🕶️🗡️",
+    "checkins": 0,
+    "uniqueBeers": 0
+  }
 ]
